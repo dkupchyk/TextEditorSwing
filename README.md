@@ -20,7 +20,7 @@ A user is able to try out some functions like:
 - undo
 - redo
 
-![Снимок экрана (202)](https://user-images.githubusercontent.com/51787088/60204578-d08d2b00-9857-11e9-9e54-88d0e2c1e515.png)
+<img src="https://user-images.githubusercontent.com/51787088/60204578-d08d2b00-9857-11e9-9e54-88d0e2c1e515.png" height="450" width="450">
 
 There is also a menu bar that consist of "File" and "Info" bars. "Info" bar just displays the information about the developer.
 Clicking on "File" bar will enable a user to:
